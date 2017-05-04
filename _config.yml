@@ -1,5 +1,5 @@
-baseurl: "/userscripts" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "https://alexandre-mbm.github.io/userscripts" # the base hostname & protocol for your site
+baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
+url: "https://gm.origem.net.br" # the base hostname & protocol for your site
 
 exclude:
   - "README.md"
