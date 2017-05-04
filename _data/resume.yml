@@ -1,5 +1,6 @@
 # IMPORTANT: Set this to false.
 demo: true
+export: true
 
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
