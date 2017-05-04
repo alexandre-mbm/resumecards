@@ -393,7 +393,7 @@ script + p {
 .resume-pic {
   float: left;
   img {
-    border: 1px solid $color-sub;
+    border: 0px solid $color-sub;
   }
 
   @each $color-name in $color-list {

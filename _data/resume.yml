@@ -5,9 +5,9 @@ export: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://avatars0.githubusercontent.com/u/2410692?v=2&s=150"
-name: "Elle Kasai"
-copy: "I'm a designer/developer based in Vancouver, Canada, and I was most recently a product designer at a Tokyo-based startup called Actcat and redesigned SideCI (sideci.com)."
+photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Greasemonkey.svg/240px-Greasemonkey.svg.png"
+name: "Alexandre Magno"
+copy: "Este site é uma galeria dos meus scripts <b>Greasemonkey</b> favoritos. Todos são de minha autoria."
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
